@@ -1,0 +1,9 @@
+{
+  "gemini3flash": { "default_model": "gemini-3-flash-preview" },
+  "gemini":       { "default_model": "gemini-2.5-flash" },
+  "groq":         { "default_model": "llama-3.3-70b-versatile" },
+  "qwen":         { "default_model": "qwen3.5-35b-a3b" },
+  "openai":       { "default_model": "gpt-4o-mini" },
+  "claude":       { "default_model": "claude-haiku-4-5-20251001" },
+  "deepseek":     { "default_model": "deepseek-chat" }
+}
