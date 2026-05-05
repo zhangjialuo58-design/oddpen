@@ -1,0 +1,7 @@
+{
+  "zhipu":    { "default_model": "glm-4-flash" },
+  "qwen":     { "default_model": "qwen-plus" },
+  "deepseek": { "default_model": "deepseek-chat" },
+  "moonshot": { "default_model": "moonshot-v1-8k" },
+  "doubao":   { "default_model": "doubao-1-5-pro-32k-250115" }
+}
